@@ -4,7 +4,7 @@
           hour = minute * 60,
           day = hour * 24
      
-     let new_year = "Jan 1, 2024 00:00:00"
+     let new_year = "Jan 1, 2025 00:00:00"
           countDown = new Date(new_year).getTime(),
           x = setInterval(function () {
 
